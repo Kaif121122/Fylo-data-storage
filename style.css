@@ -47,7 +47,7 @@ main {
     background-color: var(--Dark-Blue);
     padding: 4rem 13.4rem 4rem 4.2rem;
     border-radius: 10px 100px 10px 10px;
-    margin-top: 5rem;
+
 }
 
 .files {
@@ -85,7 +85,7 @@ main {
     padding: 4rem 4rem;
     position: relative;
     border-radius: 10px;
-    margin-top: 10rem;
+    margin-top: 4rem;
 }
 
 .data-slide {
